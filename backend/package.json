@@ -1,7 +1,7 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend API for ProLink AI - Powered by Express.js, Google Gemini, and Puppeteer.",
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js",
